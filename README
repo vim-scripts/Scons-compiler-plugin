@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=948
+
+Replace autoconf/automake with scons, and here is the compiler plugin to allow you to keep building and debugging from within vim.
